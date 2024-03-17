@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class App {
+public class Flames {
     public static void main(String[] args) throws Exception {
         Scanner user=new Scanner(System.in);
         System.out.print("Enter your name:");
