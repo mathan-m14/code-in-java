@@ -1,2 +1,2 @@
 # code-in-java
-Java developer
+Java is Platform independent and more secure ,scalable.
